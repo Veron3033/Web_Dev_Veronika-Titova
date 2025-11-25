@@ -27,6 +27,7 @@
         <hr>
         <p>Author: Your Name</p>
     </footer>
-
+<h2>CSS homework/h2>
+    <a href="styles.css">Link to external CSS file</a>
 </body>
 </html>
