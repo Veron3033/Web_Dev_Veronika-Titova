@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
-@media (max-width: 576px) {
 body{
     font-family: 'Orbitron', sans-serif;
     margin: 20px;
     padding: 20px;
     background-color: #C6FF03;
-}
 }
 nav a {
     color: #161616;
@@ -41,7 +39,7 @@ p{
     padding: 20px;
     border-radius: 15px;
     display: flex;
-    flex-direction: row;
+    flex-direction:column;
     justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
