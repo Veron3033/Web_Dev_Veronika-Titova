@@ -1,3 +1,15 @@
-a{
-    
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif, serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #cecece;
 }
+h1 {
+            color: #4e4e4e;
+        }
+        h2 {
+            color: #343434;
+        }
+        h3 {
+            color: #0d0d0d;
+        }
